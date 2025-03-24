@@ -19,7 +19,7 @@ EDA stage is to understand all aspects of the dataesets using basic SQL queries.
 - [Ranking Analysis](https://github.com/nhitran1111/SQL-Data-Analytics/blob/main/scripts/01_database_exploration.sql)
 
 ### 2. Advanced Data Analysis
-After exploring of the datasets, moving to Advanced Data Analysis in order to answer business questions. In this stage, SQL queries used to answer these questions are more complicated such as Window Function, subqueries, CTEs,....
+After exploring the datasets, moving to Advanced Data Analysis in order to answer business questions. In this stage, SQL queries used to answer these questions are more complicated such as Window Function, subqueries, CTEs,....
 - [Change Over Time Analysis](https://github.com/nhitran1111/SQL-Data-Analytics/blob/main/scripts/07_change_over_time_analysis.sql)
 - [Cumulative Analysis](https://github.com/nhitran1111/SQL-Data-Analytics/blob/main/scripts/08_cumulative_analysis.sql)
 - [Performance Analysis](https://github.com/nhitran1111/SQL-Data-Analytics/blob/main/scripts/09_performance_analysis.sql)
@@ -27,4 +27,5 @@ After exploring of the datasets, moving to Advanced Data Analysis in order to an
 - [Part To Whole Analysis](https://github.com/DataWithBaraa/sql-data-analytics-project/blob/main/scripts/11_part_to_whole_analysis.sql)
 - [Customer Report](https://github.com/DataWithBaraa/sql-data-analytics-project/blob/main/scripts/12_report_customers.sql)
 - [Product Report](https://github.com/DataWithBaraa/sql-data-analytics-project/blob/main/scripts/13_report_products.sql)
+
 
