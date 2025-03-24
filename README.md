@@ -1,12 +1,12 @@
-# SQL-Data-Analytics
+# Data Analytics with T-SQL
 
-## Objective
+## 🏆Objective
 ---
 
 The project is implementing Exploratory Data Analysis to understand the datasets in depth. This technique helps summarize the data and uncover insights before applying more advanced data analysis techniques. Next stage, the project utilize Advanced Data Analysis to answer crucial questions and helps the enterprise make data driven decisions.
 
 ---
-## Description:
+## 🖥️Description:
 This project is divided into 2 main stages: Exploratory Data Analysis and Advanced Data Analysis.
 
 ### 1. Exploratory Data Analysis (EDA)
